@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+}
+
+.main-table {
+    width: 100%;
+    background-color: yellow;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.element-table {
+    width: 100%;
+}
+
+.element {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.darkorange {
+    background-color: darkorange;
+}
+
+.thistle {
+    background-color: thistle;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.skyblue {
+    background-color: skyblue;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.navajowhite {
+    background-color: navajowhite;
+}
+
+.palegreen {
+    background-color: palegreen;
+}
+
+.khaki {
+    background-color: khaki;
+}
+
+.f4dafb {
+    background-color: #f4dafb;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
